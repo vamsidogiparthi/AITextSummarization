@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+
+# Package management
+*.nupkg
+*.snupkg
+packages/
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.temp
+~$*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
